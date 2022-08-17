@@ -2,9 +2,11 @@ import React from "react";
 
 const App = () =>{
     return (
-        <h1>
-            Welcome to React App thats build using Webpack and Babel separately
-        </h1>
+        <div className="container mt-3">
+            <h4>
+                ToDo list
+            </h4>
+        </div>
     )
 }
 
